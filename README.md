@@ -1,4 +1,4 @@
-# pratyush-kumar-das
+
 <h1 align="center">Hi there, I'm Pratyush Kumar Das 👋</h1>
 
 <p align="center">
