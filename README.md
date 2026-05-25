@@ -2,7 +2,7 @@
 <h1 align="center">Hi there, I'm Pratyush Kumar Das 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=440&lines=Student+%7C+Aspiring+Developer;Always+Learning+🌱;Open+to+Collaborate+🤝" alt="Typing SVG" />
+  🎓 Student &nbsp;·&nbsp; 💻 Aspiring Developer &nbsp;·&nbsp; 🌱 Always Learning
 </p>
 
 <p align="center">
@@ -38,8 +38,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratyushglitch&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratyushglitch&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratyushglitch&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pratyushglitch&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 <p align="center">
@@ -65,5 +68,7 @@
 ---
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=80§ion=footer" />
+</p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=80§ion=footer" />
 </p>
