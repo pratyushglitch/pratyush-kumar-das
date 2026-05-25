@@ -2,7 +2,7 @@
 <h1 align="center">Hi there, I'm Pratyush Kumar Das 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF¢er=true&vCenter=true&width=435&lines=Student+%7C+Aspiring+Developer;Always+Learning+%F0%9F%8C%B1;Open+to+Collaborate+%F0%9F%A4%9D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=440&lines=Student+%7C+Aspiring+Developer;Always+Learning+🌱;Open+to+Collaborate+🤝" alt="Typing SVG" />
 </p>
 
 <p align="center">
